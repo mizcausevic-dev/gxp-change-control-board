@@ -24,6 +24,30 @@ This repo is the public proof surface for that pattern:
 - structured JSON endpoints under `/api/*`
 - static Pages export with `robots.txt`, `sitemap.xml`, and `CNAME`
 
+## Product depth
+
+This is not just a static proof page. It models the operating questions a biotech quality, validation, technical operations, or diagnostics leader needs answered before a change packet reaches release review:
+
+- Which change lanes are blocked by classification rationale, validation evidence, SOP acknowledgement freshness, approval continuity, audit-trail repair, or cutover readiness?
+- Who owns the next remediation step, and which board packet is affected?
+- Which blockers are release-critical versus acceptable operating pressure?
+- What story can leadership tell without overstating compliance status or exposing regulated data?
+
+## What these repos have in common
+
+Kinetic Gain proof surfaces follow the same product pattern: `risk`, `owner`, `proof`, and `next action`.
+
+- `risk` is explicit instead of buried in a generic status update
+- `owner` remains attached to each route, packet, or lane
+- `proof` is inspectable through screenshots, static HTML, sample payloads, and API routes
+- `next action` is written for board, operator, and GTM readability
+
+## Operating workflow
+
+1. Model the change lane: classify the synthetic packet and capture the affected release surface.
+2. Attach evidence posture: connect validation gaps, SOP readiness, approval continuity, and audit-trail integrity.
+3. Route the decision: identify the accountable owner, blocker severity, and release-safe next action.
+
 ## Screenshots
 
 ![Overview](./screenshots/01-overview.svg)

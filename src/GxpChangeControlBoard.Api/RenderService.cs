@@ -29,6 +29,22 @@ public static class RenderService
             <div class="src"><div class="src-name">monetization path</div><div class="src-tit">Hosted preview planned · Embedded by engagement</div><p>The free surface proves the operator model; the commercial path is an embedded change-control board for regulated biotech workflows.</p></div>
           </div>
         </section>
+        <section class="section">
+          <div class="sh"><h2>Product depth</h2><div class="note">board packet · quality owner · release signal</div></div>
+          <div class="stack">
+            <div class="src"><div class="src-name">for executives</div><div class="src-tit">A release-readiness story without hiding the blockers</div><p>The board separates acceptable launch pressure from unresolved evidence debt, so leadership can see whether a change is waiting on rationale, validation, training, approval, audit repair, or cutover readiness.</p></div>
+            <div class="src"><div class="src-name">for quality teams</div><div class="src-tit">One packet per change lane</div><p>Each lane keeps its classification basis, accountable owner, observed control gap, and next remediation step together instead of spreading the decision trail across SOP trackers, approval emails, and validation spreadsheets.</p></div>
+            <div class="src"><div class="src-name">for commercial teams</div><div class="src-tit">A credible buyer-facing proof surface</div><p>The public page demonstrates the operating model without claiming certification, publishing regulated data, or pretending to be a live tenant integration.</p></div>
+          </div>
+        </section>
+        <section class="section">
+          <div class="sh"><h2>What these repos have in common</h2><div class="note">risk · owner · proof · next action</div></div>
+          <div class="stack">
+            <div class="src"><div class="src-name">risk</div><div class="src-tit">The weak point is named</div><p>Every surface identifies the specific friction or control gap before it turns into a vague program update.</p></div>
+            <div class="src"><div class="src-name">owner</div><div class="src-tit">Accountability stays attached</div><p>The route, packet, or board item always keeps a responsible function visible to reduce handoff ambiguity.</p></div>
+            <div class="src"><div class="src-name">proof</div><div class="src-tit">Evidence is packaged for review</div><p>Sample payloads, API routes, static exports, and screenshots make the operating claim inspectable by technical and non-technical readers.</p></div>
+          </div>
+        </section>
         """
     );
 
@@ -240,7 +256,7 @@ public static class RenderService
             {{{body}}}
             <div class="footer">
               <div>gxp-change-control-board · synthetic sample data only</div>
-              <div><a href="https://github.com/mizcausevic-dev/">GitHub</a> · <a href="https://www.linkedin.com/in/mirzacausevic/">LinkedIn</a> · <a href="https://kineticgain.com/">Kinetic Gain</a></div>
+              <div><a href="https://portfolio.kineticgain.com/">Portfolio</a> · <a href="https://suite.kineticgain.com/">Suite</a> · <a href="https://github.com/mizcausevic-dev/gxp-change-control-board">Repo</a> · <a href="https://www.linkedin.com/in/mirzacausevic/">LinkedIn</a> · <a href="https://kineticgain.com/">Kinetic Gain</a></div>
               <div>routes: / · /change-board · /control-gaps · /release-posture · /verification · /docs</div>
             </div>
           </div>
